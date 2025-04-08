@@ -1,0 +1,1 @@
+# kickstart-stack-seed
